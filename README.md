@@ -1,5 +1,5 @@
 ### Hi there, I am Ozair 👋
-📚 Computer Science Student
+📚 Computer Science Student <br>
 🔭 Current Development Manager at Laurier Computing Society and Project Lead at Laurier Fintech Association
 🌱 Previous System Analyst Developer at Ipex Group of Companies & Full Stack Developer at 180 Degree Consulting
 
