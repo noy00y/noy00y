@@ -1,6 +1,6 @@
 ### Hi there, I am Ozair 👋
 📚 Computer Science Student <br>
-🔭 Currently Building and Programming a DMA Firmware Card based on a FPGA <br>
+🔭 Currently Developing FPGA based Firmware <br>
 
 🌱 Previous Roles
 - Software Engineer @ CIBC
