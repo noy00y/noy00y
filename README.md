@@ -1,10 +1,7 @@
 ### Hi there, I am Ozair 👋
-📚 Computer Science Student <br>
-🔭 Currently Developing FPGA based Firmware <br>
-
-🌱 Previous Roles
-- Software Engineer @ CIBC
-- System Analyst Engineer @ Ipex Group of Companies
+📚 Incoming Masters of Computer Engineering @ TMU <br>
+🔭 Current Financial Security Engineer @ CIBC <br>
+🧰 Developing FPGA based Firmware <br>
 
 <a href="https://www.linkedin.com/in/ozair-khan-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ozairkhan-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:khan3300@mylaurier.ca"><img alt="Email" src="https://img.shields.io/badge/Email-khan3300@mylaurier.ca-blue?style=flat&logo=gmail"></a>
