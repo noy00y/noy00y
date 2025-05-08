@@ -1,6 +1,6 @@
 ### Hi there, I am Ozair 👋
-📚 Incoming Masters of Computer Engineering @ TMU <br>
-🔭 Current Financial Security Engineer @ CIBC <br>
+📚 Masters of Computer Engineering @ TMU <br>
+🔭 Financial Security Engineer @ CIBC <br>
 🧰 Developing FPGA based Firmware <br>
 
 <a href="https://www.linkedin.com/in/ozair-khan-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ozairkhan-blue?style=flat&logo=linkedin"></a>
